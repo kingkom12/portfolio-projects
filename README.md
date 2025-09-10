@@ -34,9 +34,4 @@ Each folder contains real-world style applications with code, documentation, and
 - Git/GitHub for version control
 - Enterprise frameworks (Spring Boot, .NET)
 
----
 
-## 📌 Next Steps
-- Add more projects each month
-- Expand documentation
-- Showcase corporate-ready applications
