@@ -1,6 +1,6 @@
 # 💻 Portfolio Projects
 
-A collection of Python, Java, C#, and C++ projects showcasing my skills for corporate readiness.  
+A collection of Python, Java, C#, and C++ and more projects showcasing my skills for corporate readiness.  
 Each folder contains real-world style applications with code, documentation, and instructions.  
 
 ---
